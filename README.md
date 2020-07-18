@@ -8,6 +8,10 @@ As a manager
 I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
+## Installation
+Open Terminal to project directory
+node teamApp.js
+
 ## App Screenshots
 
 ![](images/2020-07-18_19-35-36.png)
