@@ -1,8 +1,8 @@
 {
-  "name": "unit10hw",
+  "name": "team-profile-generator",
   "version": "1.0.0",
   "description": "OOP and testing for week 10 homework",
-  "main": "app.js",
+  "main": "teamApp.js",
   "directories": {
     "lib": "lib",
     "test": "test"
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "https://github.com/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "https://github.com/",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   },
   "devDependencies": {
     "jest": "^24.8.0"

@@ -1,0 +1,30 @@
+.team-heading {
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+.card {
+    margin: 20px;
+    border-radius: 15px;
+    border-color: greenyellow;
+    border-width: 3px;
+}
+.card-header {
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.card-body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    color: greenyellow;
+}
+a:hover {
+    color: turquoise;
+    text-decoration: none;
+}
